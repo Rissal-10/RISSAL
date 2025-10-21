@@ -54,7 +54,7 @@ Atau gunakan Live Server di VS Code untuk hasil yang lebih baik.
 
 ## 📸 Screenshot
 
-![Portfolio Preview] (portofolio/img/Screenshot%202025-10-21%20230202.png)
+![Screenshot](https://raw.githubusercontent.com/Rissal-10/RISSAL/main/portofolio/img/Screenshot%202025-10-21%20230202.png)
 
 ## 📝 Cara Edit
 
