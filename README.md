@@ -54,7 +54,7 @@ Atau gunakan Live Server di VS Code untuk hasil yang lebih baik.
 
 ## 📸 Screenshot
 
-![Portfolio Preview](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*9o196aK3De9lf9e9yZEiog.png)
+![Portfolio Preview] (https://drive.google.com/file/d/1T9XC2hUgA_c5_D8-Vh_kQoFf3IP_cWQc/view?usp=sharing)
 
 ## 📝 Cara Edit
 
