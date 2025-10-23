@@ -22,6 +22,7 @@ Website ini adalah portfolio pribadi saya sebagai Web Developer dan UI/UX Design
 - JavaScript
 - Font Awesome (icons)
 - Google Fonts
+-  Bootstrap
 
 ## 📂 Struktur File
 
