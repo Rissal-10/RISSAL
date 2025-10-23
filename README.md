@@ -54,7 +54,7 @@ Atau gunakan Live Server di VS Code untuk hasil yang lebih baik.
 
 ## 📸 Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/Rissal-10/RISSAL/main/screencapture-127-0-0-1-5500-indek-html-2025-10-23-19_53_09.png)
+![Screenshot](portofolio/screencapture-127-0-0-1-5500-indek-html-2025-10-23-19_53_09.png)
 
 ## 📝 Cara Edit
 
